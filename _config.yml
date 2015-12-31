@@ -1,0 +1,28 @@
+name: Elliott-Lawyers
+favicon: null
+layout_spectrum: 0.8832793401088566
+typography_spectrum: 0.013364981627091765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.21716238115914166
+  lightness: 0.9459833269938827
+  saturation: 0.7452764345798641
+  rhythmicContrast: 0.5783604378812015
+purpose: []
